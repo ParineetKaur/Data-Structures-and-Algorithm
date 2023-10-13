@@ -26,7 +26,7 @@ The repository compiles projects and assignments from my Data Structures and Alg
 ## Course References
 📖 Data Structures and Other Objects Using C++ (4th Edition)
 <div style="border: 10px solid #ccc; padding: 10px;">
-  <img src="https://pictures.abebooks.com/isbn/9780132129480-us.jpg" alt="Textbook Image">
+  <img src="https://images.textbooks.com/TextbookInfo/Covers/0132129485.gif" alt="Textbook Image">
 </div>
 ---
 Thank you for visiting this repository!
