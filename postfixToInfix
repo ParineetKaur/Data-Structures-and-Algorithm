@@ -1,6 +1,5 @@
+Question: Convert a postfix expression into its equivalent infix expression. 
 
-// CPP program to find infix for
-// a given postfix.
 #include <iostream>
 #include <string>
 #include <stack> 
