@@ -1,4 +1,4 @@
-Question: Generate random student names and topics for a Q&A session and associate students with their questions and topics
+Question: Generate random student names and topics for a Q&A session and associate students with their questions and topics. 
 
 #include <iostream>
 #include <vector>
