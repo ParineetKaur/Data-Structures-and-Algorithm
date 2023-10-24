@@ -1,5 +1,4 @@
-//Question 3 from HW07
-//Code Execution image is in Part3_execution
+// Question: Sort an array of integers using the insertion sort algorithm.
 #include <iostream>
 using namespace std;
 
