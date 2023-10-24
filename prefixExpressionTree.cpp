@@ -1,5 +1,4 @@
-//Question 2 Code from HW03
-//Write a C++ function that takes in an arithmetic expression in prefix notation and converts it into a binary tree, such that each operation is stored in a node whose left subtree stores the left operand, and whose right subtree stores the right operand.
+// Question: Write a function that takes in an arithmetic expression in prefix notation and converts it into a binary tree, such that each operation is stored in a node whose left subtree stores the left operand, and whose right subtree stores the right operand.
 
 #include <iostream>
 using namespace std;
