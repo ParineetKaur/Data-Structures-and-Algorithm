@@ -1,4 +1,4 @@
-//Part 2 of HW09
+// Question: find the shortest sequence of words that connects the two input words such that each word in the sequence differs from the previous word by only one letter.
 
 #include <iostream>
 #include <vector>
