@@ -1,4 +1,4 @@
-//Question 1 Code
+// Question: Implement the heapify function to maintain the max-heap property in a binary tree. 
 
 #include <iostream>
 using namespace std;
