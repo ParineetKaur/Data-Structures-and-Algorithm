@@ -1,5 +1,5 @@
-//Part 1 of HW09
-
+// Question: What is the longest path in a given weighted graph?
+// The code performs Depth-First Search (DFS) Traversal by recursively looking at the paths, backtracking if needed, and continually tracking the maximum path length. 
 #include <iostream>
 using namespace std;
 
