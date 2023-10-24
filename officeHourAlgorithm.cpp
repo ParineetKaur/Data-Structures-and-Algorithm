@@ -1,3 +1,5 @@
+// Question: Simulate students arriving for a professor's office hours, track their wait times, meeting durations, and calculate the professor's overtime
+
 #include <iostream>
 #include <thread>
 #include <chrono>
