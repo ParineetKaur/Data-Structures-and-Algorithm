@@ -1,7 +1,7 @@
 # Data-Structures-and-Algorithm Projects
 
 ## About This Repository 
-The repository compiles projects and assignments from my Data Structures and Algorithms course, which covered the following concept: specification, implementations, and analysis of basic data structures (stacks, queues, graphs, hash tables, binary trees) and their applications in sorting and searching algorithms. After receiving this knowledge, I have been able to: 
+The repository compiles projects and assignments from my Data Structures and Algorithms course, which covered the following concepts: specification, implementations, and analysis of basic data structures (stacks, queues, graphs, hash tables, binary trees) and their applications in sorting and searching algorithms. After receiving this knowledge, I have been able to: 
 1. Specify, design, and implement basic data structures such as stacks, queues, binary trees, heaps, hash tables, graphs.
 2. Implement basic searching and sorting algorithms using these data structures and apply them to CS and engineering problems.
    
